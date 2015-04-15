@@ -1,0 +1,5 @@
+D:\Brijesh\DivyaTraining\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.dll
+D:\Brijesh\DivyaTraining\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.pdb
+D:\Brijesh\DivyaTraining\SampleWebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.csprojResolveAssemblyReference.cache
+D:\Brijesh\DivyaTraining\SampleWebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.dll
+D:\Brijesh\DivyaTraining\SampleWebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.pdb
