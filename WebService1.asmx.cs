@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -19,7 +19,7 @@ namespace SampleWebAPI
     // [System.Web.Script.Services.ScriptService]
     public class WebService1 : System.Web.Services.WebService
     {
-        SqlConnection con = new SqlConnection(@"Data Source=PC339\SQL2008;Initial Catalog=SampleWebAPIDB;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Server=6014242b-dcea-4cd1-9ef2-a47c0041252d.sqlserver.sequelizer.com;Database=db6014242bdcea4cd19ef2a47c0041252d;User ID=zvzyngaftkakakoa;Password=QLtL6isWe72DhzfdBLeGanoe6ZNKn4hm5k3FEinVFg3GwEeus76wuabBwpNfCQHi;");
         SqlCommand cmd;//Insert/Update/Delete
 
         [WebMethod]
